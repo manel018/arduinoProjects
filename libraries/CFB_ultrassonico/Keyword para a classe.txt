@@ -1,0 +1,5 @@
+#Keyword para a classe
+CFB_ultrassonico	KEYOWORD1
+
+#Keyword para métodos
+CFB_ultrassonico	KEYWORD2
